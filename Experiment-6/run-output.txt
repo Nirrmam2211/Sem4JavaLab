@@ -1,0 +1,14 @@
+﻿Experiment 6 - Employee Payroll Management
+---------------------------------------------------------------
+Name             Designation            Emp ID     CTC (Rs.)     
+---------------------------------------------------------------
+Riya Sharma      Software Engineer      EMP101     805000.00     
+Arjun Mehta      HR Executive           EMP102     600000.00     
+Neha Verma       Contract Developer     EMP103     152000.00     
+Kabir Rao        Engineering Manager    EMP104     1215000.00    
+---------------------------------------------------------------
+
+Inheritance Summary
+1. Employee -> FullTimeEmployee
+2. Employee -> ContractEmployee
+3. Employee -> FullTimeEmployee -> Manager
